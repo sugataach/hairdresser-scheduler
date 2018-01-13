@@ -1,7 +1,4 @@
-# Author: Sugata Acharjya
-# Date: Nov 22, 2016
-
-# HairDresserScheduler
+## HairDresserScheduler
 
 - README.txt: This file. Overview of the project.
 - hairdresser.py: Scheduler program. Contains classes relevant to running the program.
